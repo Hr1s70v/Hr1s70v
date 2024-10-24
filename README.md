@@ -32,7 +32,7 @@
 ## 📂 Featured Project: ArcherSecurity
 
 ### 🎯 **Description:**
-ArcherSecurity is a **Discord bot** built to handle **server moderation and security**, defending against various online threats. Currently, it's focused on Discord, but we have plans to expand into more comprehensive projects under the **ArcherSecurity** banner.
+Archer is a **Discord bot** built to handle **server moderation and security**, defending against various online threats. Currently, it's focused on Discord, but we have plans to expand into more comprehensive projects under the **ArcherSecurity** banner.
 
 ### 🚧 **Planned Expansions:**
 - Extending security functionality to non-Discord platforms
