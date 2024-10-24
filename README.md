@@ -38,7 +38,7 @@ ArcherSecurity is a **Discord bot** built to handle **server moderation and secu
 - Extending security functionality to non-Discord platforms
 - Building a web-based dashboard for bot management
 
-[![Read more about ArcherSecurity](https://img.shields.io/badge/More%20on%20ArcherSecurity-blue?style=for-the-badge)](https://github.com/your-project-link)
+[![Read more about ArcherSecurity](https://img.shields.io/badge/More%20on%20ArcherSecurity-blue?style=for-the-badge)](https://discord.gg/AkffEvPd3A)
 
 ---
 
@@ -67,5 +67,5 @@ ArcherSecurity is a **Discord bot** built to handle **server moderation and secu
 
 ## 💬 Let's Connect!
 
-- Discord: [Discord](https://discord.com/users/808608962151972864)
+- Discord: [hr1s7ov](https://discord.com/users/808608962151972864)
 - Twitter: [Hr1s70v](https://x.com/Hr1s70v)
