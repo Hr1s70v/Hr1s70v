@@ -19,7 +19,7 @@
 ### Frameworks & Libraries
 #### Frontend:
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=nextdotjs&logoColor=white)
 
 
 
