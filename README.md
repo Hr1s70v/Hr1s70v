@@ -1,4 +1,4 @@
-# Hi there, I'm [Hr1s70v]! 👋
+# Hi there, I'm Hr1s70v! 👋
 
 🎓 **Degree**: Pursuing a **Bachelor of Engineering** in **Information and Computer Engineering**  
 💻 **Interests:** Web Development, CLI Development, Cybersecurity
